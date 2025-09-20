@@ -1,7 +1,7 @@
 # mySQL-layoffs-data-cleaning-EDA
 
-layoffs_cvs
-#Data Cleaning
+
+# Data Cleaning
 1. Remove duplicate
 2. Standardize Data
 3. Handling Null and blank values
