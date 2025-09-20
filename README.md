@@ -17,6 +17,6 @@ layoffs_cvs
 7. Who were the top 5 companies with the most layoffs for each year in the dataset?
 
 # How to run the code?
-. download the layoffs.csv file
-. run the scripts: DataCleaning_layoffs.sql will create a new clean table layoffs_staging2.csv ( layoffs_cleaned.csv )
-. execute the EDA_layoffs.sql on the layoffs_staging2.csv to get the exploration of the data
+1. download the layoffs.csv file
+2. run the scripts: DataCleaning_layoffs.sql will create a new clean table layoffs_staging2.csv ( layoffs_cleaned.csv )
+3. execute the EDA_layoffs.sql on the layoffs_staging2.csv to get the exploration of the data
